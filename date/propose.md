@@ -1,5 +1,6 @@
-You end up proposing to him or her.  
-But he or she wasn't ready.  
-You are now heart broken. 
 
-THE END!!
+
+Your plan is perfect and he/she says Yes!  
+
+[Restart](../morning.md)  
+
