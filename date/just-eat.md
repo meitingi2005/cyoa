@@ -3,4 +3,4 @@ You just ate.
 But you forgot that you have high cholesterol.  
 You get a heart attack!  
 
-[Go to the hospital](../hospital,md)  
+[Go to the hospital](../hospital.md)  
