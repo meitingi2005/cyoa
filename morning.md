@@ -8,7 +8,7 @@ It is Sunday afternoon and you want to go outside.
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title>Date</title>
+  <title></title>
   <LINK href="styles.css" rel="stylesheet" type="text/css">
 </head>
 
