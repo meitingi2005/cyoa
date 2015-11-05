@@ -8,19 +8,4 @@ Made by [Mei Ting Ieong](https://github.com/meitingi2005) and [Mubeen Alam](http
 
 Good Luck!  
 
-
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title></title>
-  <LINK href="styles.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-
-<img src="http://4.bp.blogspot.com/-ceP_GoOG8qo/Ta4eUzf078I/AAAAAAAAAFU/vGCPq2Lc_Ao/s1600/baby-praying.jpg" id="octocat" alt="" />
-
-</body>
-</html>
-
 ![h](baby-praying.jpg)
